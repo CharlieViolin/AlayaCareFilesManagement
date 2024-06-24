@@ -1,0 +1,26 @@
+{
+  "Folder 1": {
+    "Subfolder 1.1": {
+      "Subsubfolder 1.1.1": []
+    },
+    "Subfolder 1.2": {
+      "Subsubfolder 1.2.1": []
+    }
+  },
+  "Folder 2": {
+    "Subfolder 2.1": {
+      "Subsubfolder 2.1.1": []
+    },
+    "Subfolder 2.2": {
+      "Subsubfolder 2.2.1": []
+    }
+  },
+  "Folder 3": {
+    "Subfolder 3.1": {
+      "Subsubfolder 3.1.1": []
+    },
+    "Subfolder 3.2": {
+      "Subsubfolder 3.2.1": []
+    }
+  }
+}
